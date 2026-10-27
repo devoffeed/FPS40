@@ -38,3 +38,5 @@ This project is licensed under the terms of the **MIT License**. For more inform
 ## 🤖 AI Synergy & Engineering Excellence
 
 **This codebase incorporates state-of-the-art AI-driven design patterns, accelerating feature iteration and establishing a high-performance standard for modern tactical simulation framework. By synthesizing machine intelligence with clean code principles, the architecture ensures deterministic execution pipelines, optimized memory footprints, and future-proof scalability for algorithmic entity behavior.**
+
+in dev
