@@ -1,9 +1,5 @@
 # ⏱️ FortyMinutesFPS
 
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Status](https://shields.io)]()
-[![Engine](https://shields.io)](https://unity.com/)
-[![Language](https://shields.io)](https://microsoft.com)
 
 **FortyMinutesFPS** is a fast-paced first-person shooter built entirely around the concept of a strict time limit. Players have exactly 40 minutes to complete high-stakes objectives, adapt to scaling difficulty, and survive relentless pressure before the clock runs out.
 
